@@ -23,7 +23,7 @@ We added a code to get Access Token , An Access Token is a short-lived credentia
 ### Part A - Create a post request in postman:
 Before you begin glassix tasks, we have created an endpoint that listens for post requests in port 3000
 Inside the body there are 2 parameters: clientName, phoneNumber \
-**Note:** the phone number must be your phone number and with and starting with 972 \
+**Note:** the phone number must be your phone number and starting with 972 \
 These parameters will serve us in ticket details in the next task \
 ![](docs/postman.JPG)
 
