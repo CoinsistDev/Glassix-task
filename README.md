@@ -64,6 +64,6 @@ Improve the code to get a token every 3 hours and not every action
 ## Submitting
 
 1. add username: `CoinsistDev`, email: `consist.development@gmail.com` as collaborators to your imported repo.
-
+2. send the repo's URL back to the email you got from us.
 
 ## ![good luck](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
