@@ -28,7 +28,7 @@ These parameters will serve us in ticket details in the next task \
 ![](docs/postman.JPG)
 
 ### Part B - Create a Ticket Using the API:
-[Create a Ticket Guid](https://docs.glassix.com/docs/create-a-ticket-using-the-api)
+[Create a Ticket Guid](https://docs.glassix.com/docs/create-a-ticket-using-the-api) \
 **Note:** You can open only one ticket per phone number, If you want to reopen it you will need to close the open ticket and try again, 
 After the Post Request arrives
 Create ticket With the following params
