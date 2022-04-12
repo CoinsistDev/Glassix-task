@@ -3,7 +3,7 @@
 ## Getting Started
 1. Make sure you have a [GitHub](https://github.com) account
 2. Go [here](https://github.com/new/import) and import this repository into your account. Make sure to select the **private** option
-3. [Clone](https://github.com/wix-incubator/mobile-students-exam) your new repository to your computer
+3. [Clone](https://github.com/CoinsistDev/Glassix-task) your new repository to your computer
 4. Make sure you have *Node.js* 10 or higher and *npm* 6 or higher installed
 5. Install the project dependencies by running `npm install` from the project's directory (using a terminal)
 6. Run the project by running `npm start`
